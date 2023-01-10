@@ -4,17 +4,20 @@
 - 💞️ I’m looking to collaborate on Github...
 - 📫 How to reach me https://github.com/mskDev/mskDev0092...
 
+🥅➖➖➖⚽️➖➖➖➖➖🏃‍♂️
+
 # My Continued FullStack developer Journey:
 
-|Frontend  |Backend     |Others |
-|:---      |:---:       |---:   |
-|HTML      |Node JS     |Git    |
-|CSS       |Express JS  |Github |
-|Bootstrap |Mongo DB    |Linux  |
-|Tailwind  |Web-Security|
-|JavaScript|
-|React     |
-|Next      |
+|Frontend    |Backend     |Others |
+|:---        |:---:       |---:   |
+|HTML        |Node JS     |Git    |
+|CSS         |Express JS  |Github |
+|Bootstrap   |Mongo DB    |Linux  |
+|Tailwind    |Web-Security|
+|JavaScript  |
+|React       |
+|Next        |
+|React Native|
 
 
 <!---
