@@ -8,6 +8,7 @@
 
 # My Continued FullStack developer Journey:
 
+# My Stack
 |Frontend    |Backend     |Others |
 |:---        |:---:       |---:   |
 |HTML        |Node JS     |Git    |
