@@ -251,7 +251,7 @@ My Tech Stack
 
 🥅➖➖➖⚽️➖➖➖➖➖🏃‍♂️ |2024|
        
-|Frontend development    |Backend development                 |Other important skills |         
+|Frontend development ++ |Backend development ++              |Other Bonus skills |         
 |:---                    |:---:                               |---:                   |
 |Electron                |More Databases                      |POSIX Basics           | 
 |SSR/SSG                 |Scaling Databases                   |Progressive Web Apps   |
