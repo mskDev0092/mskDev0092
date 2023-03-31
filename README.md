@@ -86,7 +86,10 @@ and to help build the future of the web."
 - :zap: In my free time, I’m looking to collaborate on Github... create and read tech articles. 
 </p>
 </div>
-
+<div align="center" margin="5px">
+<h1>
+My Tech Stack
+</h1>
 <div align="center" margin="5px">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
@@ -230,34 +233,31 @@ and to help build the future of the web."
     height="40"
   />&nbsp;
 </div>
-<div align="center" margin="5px">
-<h1>
-My Tech Stack
-</h1>
+
 
 > My Continued FullStack developer learning Journey:
 
 🥅➖➖➖⚽️➖🏃‍➖➖➖➖ |2023|
 
-|Frontend development    |Backend development     |Other important skills |
-|:---                    |:---:                   |---:                   |
-|UI / Design / Figma     |Node JS                 |Testing                |
-|HTML/CSS                |Express JS              |Git                    |
-|JavaScript              |Mongo DB                |Github                 |
-|React                   |PostgreSQL              |Linux                  |
-|Next                    |Caching                 |APIs                   |
-|Tailwind/Bootstrap/MUI  |CI/CD                   |Web-Security           |
-|React Native            |Nginx                   |Operating System       |
+|Frontend development    |Backend development                  |Other important skills |
+|:---:                   |:---:                                |:---:                  |
+|UI / Design / Figma     |Node JS                              |Testing                |
+|HTML/CSS                |Express JS                           |Git                    |
+|JavaScript              |Mongo DB                             |Github                 |
+|React                   |PostgreSQL                           |Linux                  |
+|Next                    |Caching                              |APIs                   |
+|Tailwind/Bootstrap/MUI  |CI/CD                                |Web-Security Basics    |
+|React Native            |Nginx                                |Operating System       |
 
 🥅➖➖➖⚽️➖➖➖➖➖🏃‍♂️ |2024|
        
 |Frontend development ++ |Backend development ++              |Other Bonus skills |         
-|:---                    |:---:                               |---:                   |
+|:---:                   |:---:                               |:---:                  |
 |Electron                |More Databases                      |POSIX Basics           | 
 |SSR/SSG                 |Scaling Databases                   |Progressive Web Apps   |
-|3D Graphics: ThreeJS    |Software Design and Architecture    |Scrappers              |                       
-|Rust                    |Containerization vs. Virtualization |Tensor                 |                     
-|WebAssembly             |Message Brokers                     |Tableu                 |
+|3D Graphics: ThreeJS    |Software Design and Architecture    |Scrappers Basics       |                       
+|Rust Basics             |Containerization vs. Virtualization |Tensor Basics          |                     
+|WebAssembly Basics      |Message Brokers                     |Tableu Basics          |
 
 
 </div>
