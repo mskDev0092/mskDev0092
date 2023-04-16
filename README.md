@@ -235,29 +235,29 @@ My Tech Stack
 </div>
 
 
-> My Continued FullStack developer learning Journey:
+> My Continued FullStack developer learning Goals:
 
 🥅➖➖➖⚽️➖🏃‍➖➖➖➖ |2023|
 
 |Frontend development    |Backend development                  |Other important skills |
 |:---:                   |:---:                                |:---:                  |
-|UI / Design / Figma     |Node JS                              |Testing                |
-|HTML/CSS                |Express JS                           |Git                    |
-|JavaScript              |Mongo DB                             |Github                 |
-|React                   |PostgreSQL                           |Linux                  |
-|Next                    |Caching                              |APIs                   |
-|Tailwind/Bootstrap/MUI  |CI/CD                                |Web-Security Basics    |
-|React Native            |Nginx                                |Operating System       |
+|UI / Design / Figma     |Node JS & Express JS                 |Testing                |
+|HTML/CSS                |Mongo DB                             |Git & Github           |
+|JavaScript              |PostgreSQL                           |Operating System       |
+|React / Next            |Caching                              |Linux                  |
+|Tailwind/Bootstrap/MUI  |CI/CD                                |APIs                   |
+|React Native            |Nginx                                |Web-Security Basics    |
+       
 
 🥅➖➖➖⚽️➖➖➖➖➖🏃‍♂️ |2024|
        
 |Frontend development ++ |Backend development ++              |Other Bonus skills |         
 |:---:                   |:---:                               |:---:                  |
-|Electron                |More Databases                      |POSIX Basics           | 
+|Electron Basics         |More Databases                      |POSIX Basics           | 
 |SSR/SSG                 |Scaling Databases                   |Progressive Web Apps   |
 |3D Graphics: ThreeJS    |Software Design and Architecture    |Scrappers Basics       |                       
 |Rust Basics             |Containerization vs. Virtualization |Tensor Basics          |                     
-|WebAssembly Basics      |Message Brokers                     |Tableu Basics          |
+|WebAssembly Basics      |Message Brokers Basics              |Tableu Basics          |
 
 
 </div>
