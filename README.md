@@ -243,8 +243,8 @@ My Tech Stack
 |:---:                   |:---:                                |:---:                  |
 |UI / Design / Figma     |Node JS & Express JS                 |Testing                |
 |HTML/CSS                |Mongo DB                             |Git & Github           |
-|JavaScript              |PostgreSQL                           |Operating System       |
-|React / Next            |Caching                              |Linux                  |
+|JavaScript              |PostgreSQL                           |Operating System Basics|
+|React / Next            |Caching                              |Linux & bash Basics    |
 |Tailwind/Bootstrap/MUI  |CI/CD                                |APIs                   |
 |React Native            |Nginx                                |Web-Security Basics    |
        
