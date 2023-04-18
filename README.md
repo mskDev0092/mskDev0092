@@ -253,7 +253,7 @@ My Tech Stack
        
 |Frontend development ++ |Backend development ++              |Other Bonus skills |         
 |:---:                   |:---:                               |:---:                  |
-|Electron Basics         |More Databases                      |POSIX Basics           | 
+|Tauri Basics            |More Databases                      |POSIX Basics           | 
 |SSR/SSG                 |Scaling Databases                   |Progressive Web Apps   |
 |3D Graphics: ThreeJS    |Software Design and Architecture    |Scrappers Basics       |                       
 |Rust Basics             |Containerization vs. Virtualization |Tensor Basics          |                     
