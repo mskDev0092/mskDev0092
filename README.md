@@ -15,26 +15,8 @@
     width="100"
   />
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shehzad-khan-3ab41b235/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge"
-    />
-  </a>
-  <a href="https://www.youtube.com/channel/UC4Dv_9o4mf6g75-1M-W57VQ">
-    <img
-      src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="Youtube Badge"
-    />
-  </a>
-  <a href="https://twitter.com/mskdev0092">
-    <img
-      src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter Badge"
-    />
-  </a>
-</div>
+
+
 <div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=your-mskDev0092&style=flat-square&color=blue"
@@ -49,9 +31,7 @@
   />
 </div>
 
-<div align="center" margin="5px">
-<a href="https://www.buymeacoffee.com/mskDev0092" target="https://www.buymeacoffee.com/mskDev0092"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Book" height="51" width="217" ></a>
-</div>
+
 
 <div align="center" margin="5px">
 <h1>
@@ -235,29 +215,7 @@ My Tech Stack
 </div>
 
 
-> My Continued FullStack developer learning Goals:
 
-🥅➖➖➖⚽️➖🏃‍➖➖➖➖ |2023|
-
-|Frontend development    |Backend development                  |Other important skills |
-|:---:                   |:---:                                |:---:                  |
-|UI / Design / Figma     |Node JS & Express JS                 |Testing                |
-|HTML/CSS                |Mongo DB                             |Git & Github           |
-|JavaScript              |PostgreSQL                           |Operating System Basics|
-|React / Next            |Caching                              |Linux & bash Basics    |
-|Tailwind/Bootstrap/MUI  |CI/CD                                |APIs                   |
-|React Native            |Nginx                                |Web-Security Basics    |
-       
-
-🥅➖➖➖⚽️➖➖➖➖➖🏃‍♂️ |2024|
-       
-|Frontend development ++ |Backend development ++              |Other Bonus skills |         
-|:---:                   |:---:                               |:---:                  |
-|Tauri Basics            |More Databases                      |POSIX Basics           | 
-|SSR/SSG                 |Scaling Databases                   |Progressive Web Apps   |
-|3D Graphics: ThreeJS    |Software Design and Architecture    |Scrappers Basics       |                       
-|Rust Basics             |Containerization vs. Virtualization |Tensor Basics          |                     
-|WebAssembly Basics      |Message Brokers Basics              |Tableu Basics          |
 
 
 </div>
