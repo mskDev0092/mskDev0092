@@ -42,16 +42,16 @@ About Me : I am a Full Stack Developer (MERN)
 />
 </h1>
 <p>
-With 2 years of experience in designing, developing, and deploying web
+With experience in designing, developing, and deploying web
 applications.. 
 - :telescope: I’m working as a Software Developer and
 contributing to frontend and backend for building web applications. 
 </p>
 <p>
-- :seedling: I specialize in HTML/CSS , JavaScript, React as well as backend technologies such as Node and MongoDB.
+- :seedling: I work with JavaScript, React as well as backend technologies such as Node and MongoDB.
 </p>
 <p>
-- :seedling: I'm an expert in creating intuitive user interfaces and have a passion
+- :seedling: I'm good at creating intuitive user interfaces and have a passion
 for creating visually stunning websites that are both functional and
 accessible.
 </p>
