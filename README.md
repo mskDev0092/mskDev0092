@@ -214,6 +214,9 @@ My Tech Stack
   />&nbsp;
 </div>
 
+## Learning journey
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6473fab7c4ec366ad5b0c47d?variant=dark)](https://roadmap.sh)
 
 
 
