@@ -44,7 +44,7 @@ About Me : I am a Full Stack Developer (MERN)
 <p>
 With experience in designing, developing, and deploying web
 applications.. 
-- :telescope: I’m working as a Software Developer and
+- :telescope: I’m working as a Developer and
 contributing to frontend and backend for building web applications. 
 </p>
 <p>
