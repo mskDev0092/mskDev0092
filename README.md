@@ -1,76 +1,28 @@
-<h1 align="center">
-  Hi, I’m @shehzadkhan !
-  <img
-    src="https://media.giphy.com/media/yWnfMrmiqLQuZtFkt8/giphy.gif"
-    width="30px"
-  />
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="30px"
-  />
-</h1>
-<div id="header" align="center">
-  <img
-    src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif"
-    width="100"
-  />
-</div>
-
-
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=your-mskDev0092&style=flat-square&color=blue"
-    alt=""
-  />
-</div>
-<div align="center">
   <img
     src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
-    width="600"
-    height="300"
+    width="1200px"
+    height="400px"
   />
-</div>
 
+# 𝐻𝒾, 𝐼’𝓂 𝓢𝓱𝓮𝓱𝔃𝓪𝓭 𝓚𝓱𝓪𝓷 !
 
+### Working as a Full-Stack Developer (MERN)
 
-<div align="center" margin="5px">
-<h1>
-About Me : I am a Full Stack Developer (MERN)
-<img
-  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
-  width="30"
-/>
-</h1>
-<p>
-With experience in designing, developing, and deploying web
-applications.. 
+### With experience in designing, developing, and deploying web applications.. 
+  
 - :telescope: I’m working as a Developer and
 contributing to frontend and backend for building web applications. 
-</p>
-<p>
 - :seedling: I work with JavaScript, React as well as backend technologies such as Node and MongoDB.
-</p>
-<p>
 - :seedling: I'm good at creating intuitive user interfaces and have a passion
 for creating visually stunning websites that are both functional and
 accessible.
-</p>
-<p>
 - :seedling: I'm always looking for opportunities to work on innovative projects
 and to help build the future of the web." 
-</p>
-<p>
 - :seedling: Exploring Technical Content Writing. 
-</p>
-<p>
 - :zap: In my free time, I’m looking to collaborate on Github... create and read tech articles. 
-</p>
-</div>
-<div align="center" margin="5px">
-<h1>
-My Tech Stack
-</h1>
-<div align="center" margin="5px">
+
+## My Tech Stack
+
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
     title="figma"
@@ -141,17 +93,13 @@ My Tech Stack
     width="40"
     height="40"
   />&nbsp;
-</div>
-
-<div align="center" margin="5px">
-  <img
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     title="express"
     alt="express"
     width="40"
     height="40"
-  />
-  <img
+  /> <img
     src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
     title="NodeJS"
     alt="NodeJS"
@@ -178,16 +126,14 @@ My Tech Stack
     alt="redis"
     width="40"
     height="40"
-  />&nbsp;<img
+  />&nbsp;
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
     title="nginx"
     alt="nginx"
     width="40"
     height="40"
-  />&nbsp;
-</div>
-<div align="center" margin="5px">
-  <img
+  />&nbsp;<img
     src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
     title="Git"
     alt="Git"
@@ -211,14 +157,73 @@ My Tech Stack
     alt="aarch64"
     width="40"
     height="40"
+  />&nbsp;<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+    title="aarch64"
+    alt="aarch64"
+    width="40"
+    height="40"
+  />&nbsp;<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+    title="aarch64"
+    alt="aarch64"
+    width="40"
+    height="40"
+  />&nbsp;<img
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
+    title="aarch64"
+    alt="aarch64"
+    width="40"
+    height="40"
+  />&nbsp;<img
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"
+    title="aarch64"
+    alt="aarch64"
+    width="40"
+    height="40"
+  />&nbsp;<img
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"
+    title="aarch64"
+    alt="aarch64"
+    width="40"
+    height="40"
   />&nbsp;
-</div>
+
+
+## Projects
+
+<table>
+<tr> <th>Frontend Development </th> <th>Backend Development</th> </tr>
+<tr><td>
+
+|Project Title | Links | Stack|
+|--|--|--|
+|[1. Four Card Feature Section](https://github.com/mskDev0092/Four-card-feature-section-master) | [Live Site](https://mskdev0092.github.io/Four-card-feature-section-master/)  | <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> |
+|[2. Base Apparel Coming Soon](https://github.com/mskDev0092/Base-Apparel-coming-soon-page)|[Live Site](https://mskdev0092.github.io/Base-Apparel-coming-soon-page/)| <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> |
+|[3. Single Price Grid Component](https://github.com/mskDev0092/Intro-component-with-sign-up)|[Live Site](https://mskdev0092.github.io/Intro-component-with-sign-up/)| <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> |
+|[4. Intro-component-with-sign-up](https://github.com/mskDev0092/Single-Price-Grid-Component)|[Live Site](https://mskdev0092.github.io/Single-Price-Grid-Component/)| <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> |
+|[5. Huddle Landing Page](https://github.com/mskDev0092/Huddle-landing-page)|[Live Site](https://mskdev0092.github.io/Huddle-landing-page/)| <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> |
+|[6. Pricing-Componant-with-toggle](https://github.com/mskDev0092/Pricing-Componant-with-toggle)|[Live Site](https://mskdev0092.github.io/Pricing-Componant-with-toggle/)|<img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>|
+|[7. Markdown Previewer](https://github.com/mskDev0092/markdown-project-fcc)|[Live Site](https://markdown-project-fcc.stackblitz.io/)|<img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/> |
+|[8. React Calculator App](https://github.com/mskDev0092/react-calculator23)|[Live Site](https://react-calculator23.stackblitz.io/)|<img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/> |
+|[9. React Drum-machine](https://github.com/mskDev0092/react-drum-machine-fcc23)|[Live Site](https://react-drum-machine-fcc23.stackblitz.io/)|<img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/> |
+|[10. React 25 + 5 Clock](https://github.com/mskDev0092/react-v-clock)|[Live Site](https://react-v-clock.stackblitz.io/)|<img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/> |
+|[11. Random Quote Machine](https://github.com/mskDev0092/Random-Quote-Machine)|[Live Site](https://my-random-quote-machine-fcc.stackblitz.io/)|<img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/> |
+
+</td><td>
+
+|Project Title | Links | Stack|
+|--|--|--|
+|[1. Timestamp Microservice](https://github.com/mskDev0092/Timestamp-Microservice)|[Site Url](https://timestamp-microservice.mskdev0092.repl.co/)|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />|
+|[2. Request Header Parser Microservice](https://github.com/mskDev0092/Headerparser-Microservice)|[Site Url](https://headerparser-microservice.mskdev0092.repl.co/)|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />|
+|[3. URL Shortener Microservice](https://github.com/mskDev0092/URL-Shortener-Microservice)|[Site Url](https://url-shortener-microservice.mskdev0092.repl.co/)|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />|
+|[4. Exercise Tracker](https://github.com/mskDev0092/Exercise-Tracker-App)|[Site Url](https://exercise-tracker-app.mskdev0092.repl.co/)|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />|
+|[5. File Metadata Microservice](https://github.com/mskDev0092/File-Metadata-Microservice)|[Site Url](https://file-metadata-microservice.mskdev0092.repl.co/)|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />|
+
+</td></tr> </table>
+
 
 ## Learning journey
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6473fab7c4ec366ad5b0c47d?variant=dark)](https://roadmap.sh)
+<img width="1200px" height="400px" src="https://api.roadmap.sh/v1-badge/wide/6473fab7c4ec366ad5b0c47d?variant=dark"/>
 
-
-
-
-</div>
