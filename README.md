@@ -4,11 +4,11 @@
     height="400px"
   />
 
-# 𝐻𝒾, 𝐼’𝓂 𝓢𝓱𝓮𝓱𝔃𝓪𝓭 𝓚𝓱𝓪𝓷 !
+#  ℍ𝕚 𝕚 𝕒𝕞 𝕊𝕙𝕖𝕙𝕫𝕒𝕕 𝕂𝕙𝕒𝕟  ♨
 
-### Working as a Full-Stack Developer (MERN)
+### Ｗｏｒｋｉｎｇ ａｓ ａ Ｆｕｌｌｓｔａｃｋ Ｄｅｖｅｌｏｐｅｒ ！M⃞    E⃞    R⃞    N⃞
 
-### With experience in designing, developing, and deploying web applications.. 
+### 𝚆𝚒𝚝𝚑 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐, 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚍𝚎𝚙𝚕𝚘𝚢𝚒𝚗𝚐 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜..
   
 - :telescope: I’m working as a Developer and
 contributing to frontend and backend for building web applications. 
