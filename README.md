@@ -193,7 +193,7 @@ and to help build the future of the web."
 ## Projects
 
 <table>
-<tr> <th>Frontend Development </th> <th>Backend Development</th> </tr>
+<tr> <th>Frontend Development </th>  <th>Backend Development</th> </tr>
 <tr><td>
 
 |Project Title | Links | Stack|
@@ -212,8 +212,11 @@ and to help build the future of the web."
 
 </td><td>
 
+|     Microservices & APIs    |
+|-----------------------------|
+
 |Project Title | Links | Stack|
-|--|--|--|
+|---|-|--|
 |[1. Timestamp Microservice](https://github.com/mskDev0092/Timestamp-Microservice)|[Site Url](https://timestamp-microservice.mskdev0092.repl.co/)|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />|
 |[2. Request Header Parser](https://github.com/mskDev0092/Headerparser-Microservice)|[Site Url](https://headerparser-microservice.mskdev0092.repl.co/)|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />|
 |[3. URL Shortener Microservice](https://github.com/mskDev0092/URL-Shortener-Microservice)|[Site Url](https://url-shortener-microservice.mskdev0092.repl.co/)|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />|
