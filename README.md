@@ -228,5 +228,5 @@ and to help build the future of the web."
 
 ## Learning journey
 
-<img width="1200px" height="400px" src="https://api.roadmap.sh/v1-badge/wide/6473fab7c4ec366ad5b0c47d?variant=dark"/>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6473fab7c4ec366ad5b0c47d?variant=dark)](https://roadmap.sh)
 
