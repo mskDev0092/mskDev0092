@@ -196,7 +196,7 @@ and to help build the future of the web."
 <tr> <th>Frontend Development </th>   </tr>
 <tr><td>
 
-|Project Title | URLs | Stack | Topics Found | From |
+|Project Title | URLs | Stack | Topics | From |
 |--|-|--|----|--|
 |[1. Four Card Feature Section](https://github.com/mskDev0092/Four-card-feature-section-master) | [Live Site](https://mskdev0092.github.io/Four-card-feature-section-master/)  | <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> | RWD - CSS Flexbox | Frontend Mentor |
 |[2. Base Apparel Coming Soon](https://github.com/mskDev0092/Base-Apparel-coming-soon-page)|[Live Site](https://mskdev0092.github.io/Base-Apparel-coming-soon-page/)| <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/> <img width="20px" height="20px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> | Basic Form - CSS Flexbox - Basic Validation JS | Frontend Mentor |
@@ -222,7 +222,7 @@ and to help build the future of the web."
 |     Microservices & APIs    |
 |-----------------------------|
 
-|Project Title | URLs | Stack| Topics found | From |
+|Project Title | URLs | Stack| Topics | From |
 |---|-|--|--------|---|
 |[1. Timestamp Microservice](https://github.com/mskDev0092/Timestamp-Microservice)|[Site Url](https://timestamp-microservice.mskdev0092.repl.co/)|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />| Express JS - Middleware - json | FreeCodeCamp |
 |[2. Request Header Parser](https://github.com/mskDev0092/Headerparser-Microservice)|[Site Url](https://headerparser-microservice.mskdev0092.repl.co/)|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />| Express JS - Dotenv - JSON | FreeCodeCamp |
