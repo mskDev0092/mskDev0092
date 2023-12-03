@@ -37,7 +37,7 @@ Whether you're envisioning a dynamic MERN-powered app, exploring the AWS cloud, 
 
 Thanks for joining me on my MERN stack journey. Excited to embark on a coding adventure together? Let's dive into the realms of web development! 🚀✨
 
-## My Prefered Tech Stack
+## Tech Stack
 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
