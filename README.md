@@ -237,5 +237,3 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 
 </td></tr> </table>
 
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/mskdev0092)
