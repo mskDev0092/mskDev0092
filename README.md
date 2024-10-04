@@ -194,7 +194,7 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
   />&nbsp;
 
 
-## Projects
+## Learning Roadmap Project based
 
 <table>
 <tr> <th>Frontend Development </th>   </tr>
@@ -233,7 +233,25 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 |[3. URL Shortener Microservice](https://github.com/mskDev0092/URL-Shortener-Microservice)|[]()|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />| Express JS - MongoClient - http Methods | FreeCodeCamp |
 |[4. Exercise Tracker](https://github.com/mskDev0092/Exercise-Tracker-App)|[]()|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />| Mongoose - Bodyparser - Schema | FreeCodeCamp |
 |[5. File Metadata Microservice](https://github.com/mskDev0092/File-Metadata-Microservice)|[]()|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />| Multer - File Upload - Metadata | FreeCodeCamp |
+</td></tr> 
+</table>
+
+<table>
+  <tr> <th> DevOps Foundation </th> </tr>
+  
+  <tr><td>
+
+| Linux Fundamentals and Web Security Essentials |
+|--------------------------------------------------------|
+
+|Project Title | Topics | From |
+|--------------|-----------------------------------------|--------------------------------------|
+|[1. Linux Commands 1](https://github.com/mskDev0092/General-Linux-commands)| Files & Navigating, Process Managment, System Information, Compressing, Permission | Github |
+|[2. Linux Commands 2](https://github.com/mskDev0092/Linux-Terminal-Commands)| System Utilities for Text Manipulation, Networking, and Process Management | Github |
+|[3. Arch Distro Specific](https://github.com/mskDev0092/Basic-Linux-Admin-Commands)| System Commands, Update & Upgrade, Kernel | Github |
+|[4. Web Security Essentials](https://github.com/mskDev0092/Web-Security-Essentials)| Https, Tls, Bcrypt, Server Security, Owasp | Github |
+</td></tr> 
+</table>
 
 
-</td></tr> </table>
 
