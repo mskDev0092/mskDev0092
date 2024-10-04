@@ -237,7 +237,7 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 </table>
 
 <table>
-  <tr> <th> DevOps Foundation </th> </tr>
+  <tr> <th> Backend Development </th> </tr>
   
   <tr><td>
 
