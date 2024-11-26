@@ -4,28 +4,14 @@
     height="400px"
   />
 
-🚀 Introducing Sk, your Fullstack Engineer!
-
-Hello, tech enthusiasts! 👋 I'm A, a dedicated Fullstack Engineer with a passion for crafting digital solutions. Let me take you through my journey in the tech world:
-
-🌐 Fullstack Proficiency: I specialize in Fullstack Engineering, mastering both server-side scripting and dynamic front-end interfaces for seamless digital experiences.
-
-💡 App Development Enthusiast: I enjoy developing apps as a hobby. Exploring creative possibilities in this space is a rewarding adventure that fuels my interest.
-
-🖥️ IT Conversations: Discussing Information Technology is not just part of my job; it's a fundamental aspect of my daily conversations. I stay updated on the latest IT trends and developments.
-
-🔧 Continuous Learning: My goal is to become a better developer. I embrace a mindset of continuous learning, staying informed about evolving technologies.
-
-👨‍💻 Crafting Digital Solutions: As a Fullstack Engineer, I integrate front-end and back-end elements to ensure a cohesive and effective user experience.
-
-🚀 Launching Tech Ventures: From coding applications to configuring servers, my journey involves orchestrating the launch of digital projects for technological excellence.
-
-🔒 IT Security Focus: Recognizing the importance of security, I implement practices to fortify projects against potential threats.
-
-✨ Collaborate for Success: Whether you're envisioning an app or exploring the IT landscape, I'm here to collaborate and turn your ideas into reality. Let's embark on this tech journey together!
+💡 App Development Enthusiast
+🖥️ IT Conversations
+🔧 Continuous Learning
+👨‍💻 Crafting 
+✨ Collaboration
 
 Thanks for joining me on this digital adventure. Ready to explore the world of Fullstack Engineering together? Let's dive in! 🚀✨
-## Tech Stack
+## Technologies
 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
@@ -194,7 +180,7 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
   />&nbsp;
 
 
-## Learning Roadmap Project based
+## Project based Learning Roadmap 
 
 <table>
 <tr> <th>Frontend Development </th>   </tr>
