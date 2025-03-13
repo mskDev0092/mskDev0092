@@ -41,6 +41,14 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
     width="40"
     height="40"
   />&nbsp;
+  &nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+    title="Typescript"
+    alt="Typescript"
+    width="40"
+    height="40"
+  />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
     title="React"
@@ -59,13 +67,6 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     title="nextjs"
     alt="nextjs "
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
-    title="Material UI"
-    alt="Material UI"
     width="40"
     height="40"
   />&nbsp;
@@ -177,10 +178,31 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
     alt="aarch64"
     width="40"
     height="40"
-  />&nbsp;
+  />&nbsp;<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
+    title="aarch64"
+    alt="aarch64"
+    width="40"
+    height="40"
+  />&nbsp;<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+  title="aarch64"
+  alt="aarch64"
+  width="40"
+  height="40"
+  />&nbsp;<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" 
+  title="aarch64"
+  alt="aarch64"
+  width="40"
+  height="40"
+  />
+          
+          
+          
 
 
-## Project based Learning Roadmap 
+## Project based Learning Roadmap to practice concepts
 
 <table>
 <tr> <th>Frontend Development </th>   </tr>
@@ -223,19 +245,42 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 </table>
 
 <table>
-  <tr> <th> Backend Development </th> </tr>
+  <tr> <th>Fullstack Development</th> </tr>
+
+
+<tr><td>
+  
+|     Next JS    |
+|-----------------------------|
+
+|Project Title | URLs / Offline | Stack| Topics | From |
+|---|-|--|--------|---|
+|[1. Ecommerce (Basic boilerplate only for practice)](https://github.com/mskDev0092)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />| Next TS - SSG - Apollo GraphQL - Typescript | Practice Project |
+
+
+|     Microservices & APIs    |
+|-----------------------------|
+
+|Project Title | URLs / Offline | Stack| Topics | From |
+|---|-|--|--------|---|
+|[1. Authentication](https://github.com/mskDev0092/auth-api)|[]()|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />| Express JS - Apollo GraphQL Server - Passport Authentication - MongoDB | Practice Project |
+|[2. Catalog](https://github.com/mskDev0092/catalog-api)|[]()|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />| Express JS - Apollo GraphQL Server - Passport Authentication - MongoDB | Practice Project |
+|[3. Admin](https://github.com/mskDev0092)|[]()|<img width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>  <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /><img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />| Express JS - Apollo GraphQL Server - Passport Authentication - MongoDB - Vite | Practice Project |
+
+</td></tr> 
+</table>
+
+<table>
+  <tr> <th> Linux Fundamentals and Web Security Essentials </th> </tr>
   
   <tr><td>
 
-| Linux Fundamentals and Web Security Essentials |
-|--------------------------------------------------------|
-
-|Project Title | Topics | From |
-|--------------|-----------------------------------------|--------------------------------------|
-|[1. Linux Commands 1](https://github.com/mskDev0092/General-Linux-commands)| Files & Navigating, Process Managment, System Information, Compressing, Permission | Github |
-|[2. Linux Commands 2](https://github.com/mskDev0092/Linux-Terminal-Commands)| System Utilities for Text Manipulation, Networking, and Process Management | Github |
-|[3. Arch Distro Specific](https://github.com/mskDev0092/Basic-Linux-Admin-Commands)| System Commands, Update & Upgrade, Kernel | Github |
-|[4. Web Security Essentials](https://github.com/mskDev0092/Web-Security-Essentials)| Https, Tls, Bcrypt, Server Security, Owasp | Github |
+|Project Title | URLs | Logo | Topics | From |
+|---|-|--|--------|---|
+|[1. Linux Commands 1](https://github.com/mskDev0092/General-Linux-commands)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> | Files & Navigating, Process Managment, System Information, Compressing, Permission | Github |
+|[2. Linux Commands 2](https://github.com/mskDev0092/Linux-Terminal-Commands)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> | System Utilities for Text Manipulation, Networking, and Process Management | Github |
+|[3. Arch Distro Specific](https://github.com/mskDev0092/Basic-Linux-Admin-Commands)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg"/> | System Commands, Update & Upgrade, Kernel | Github |
+|[4. Web Security Essentials](https://github.com/mskDev0092/Web-Security-Essentials)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /> | Https, Tls, Bcrypt, Server Security, Owasp | Github |
 </td></tr> 
 </table>
 
