@@ -249,6 +249,13 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 
 
 <tr><td>
+ 
+|     Designs and Prompt Engineering    |
+|-----------------------------|
+
+|Project Title | URLs / Offline | Stack| Topics | From |
+|---|-|--|--------|---|
+|[1. Scroll-based premium product website ](https://github.com/mskDev0092/Premium-product-website)|[Live](https://mskdev0092.github.io/Premium-product-website/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | HTML CSS Javascript | Practice Project - Deepsite |
   
 |     Next JS    |
 |-----------------------------|
