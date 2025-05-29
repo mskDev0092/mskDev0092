@@ -257,7 +257,10 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 |---|-|--|--------|---|
 |[1. Scroll-based premium product website ](https://github.com/mskDev0092/Premium-product-website)|[Live Site](https://mskdev0092.github.io/Premium-product-website/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | HTML CSS Javascript | Practice Project - Deepsite |
 |[2. Elegant developer portfolio website](https://github.com/mskDev0092/dev-portfolio)|[Live Site](https://mskdev0092.github.io/dev-portfolio/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | HTML CSS Javascript | Practice Project - Deepsite |
-  
+|[3. Elegant herbal product website](https://github.com/mskDev0092/Premium-herbal-website)|[Live Site](https://mskdev0092.github.io/Premium-herbal-website/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | HTML CSS Javascript | Practice Project - Deepsite |
+|[4. BiasMapper website](https://github.com/mskDev0092/BiasMapper)|[Live Site](https://mskdev0092.github.io/BiasMapper/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | HTML CSS Javascript | Personal Project - App Design - Deepsite |
+
+    
 |     Next JS    |
 |-----------------------------|
 
