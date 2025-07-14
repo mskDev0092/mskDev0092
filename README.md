@@ -199,7 +199,35 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
   />
           
           
-          
+---
+
+### **Certification based Learning Roadmap & Skills Chart**
+
+| **Skill Group**         | **Certification Title**                                                                                   | **Provider**                     |
+|-------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------|
+| **Frontend**            | Frontend Development & Libraries                                                                          | [freeCodeCamp](https://www.freecodecamp.org/certification/sk_dev/front-end-development-libraries)                     |
+|                         | Building Responsive Forms with Flexbox                                                                    | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/14c564665df322f0070a81581497b8bddcf717e4a9e649503eef981466861fc3)                |
+|                         | CSS Advanced Layouts with Grid                                                                            | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/741375840b20bada2ebc4d5cd78d0db78856ef234f459fa00f7d60471fd1610a)                |
+|                         | React Hooks                                                                                               | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/3c758306167e8bfdbf604a78d715272990d2e20dc9c0d3bc06d7c66038ad8dfc)                |
+|                         | React Working with APIs                                                                                   | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/92a63fd711c44b5ec08ee09bf46adca2d18a609d3d51a052ca0047989f48c7f3)                |
+| **Backend/DevOps**      | Data Structures & Algorithms                                                                              | [freeCodeCamp](https://freecodecamp.org/certification/Sk_Dev/javascript-algorithms-and-data-structures)                     |
+|                         | Backend Development and APIs                                                                              | [](https://freecodecamp.org/certification/Sk_Dev/back-end-development-and-apis)                                     |
+|                         | Explore Web Development with Node.js                                                                      | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/0b6216960cf58da04ce1630e507515b97225a356eeaaf5fe159a3d75d9f9ab93)                |
+|                         | Advanced Node.js                                                                                          | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/d68352fd28a60d0709ebd5b9f444d0370a01ed0b064a36e29ae2e148a41c9f5d)                |
+|                         | Exploring Linux Internals Advanced Insights and Practical Applications                                    | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/6b17c6666f85180a722e5a90cb1464ab5df76fe5cd36181ff37b013bb05ffa9f)                |
+|                         | Linux Security and Hardening Essential Training                                                           | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/2d3fc5fe8a3b2bc260649065e7abb1027880f800e4b40abb7c8993c7f1fe6ee9)                |
+|                         | Docker Essential Training                                                                                 | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/edb74426bdc1330658ed61766e886419ae369d12428e179801f73b3de32f2023)                |
+| **AI/Generative AI**    | What Is Generative AI                                                                                     | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/3c9d0dc7cc1cf62f0815e5aac3873f32cd8cddc499a1a637e2dc8639ff2499b2)                |
+|                         | Pair Programming with AI                                                                                  | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/a13452994f12923054c459857b8833a1aa8c844b7d140096f036e2eed3a2b2ad)                |
+|                         | Introducing Semantic Kernel Building AIBased Apps                                                         | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/f81a8cda4b1e4daf5c8c0fbd1c0d3e3caddcafd5ffbd460eefccc3348b74e546)                |
+|                         | Career Essentials in Generative AI by Microsoft and LinkedIn                                              | [Microsoft + LinkedIn Learning](https://www.linkedin.com/learning/certificates/4d7e06a3c4fecb4a59934c3356fc95a7c03b02aca26ba530ae5ed1717778ead4)  |
+| **Cloud/AWS**           | AWS Course Cloud Practitioner Completion Certificate                                                      | [AWS Cloud Quest]()                  |
+| **Other/Miscellaneous** | Advanced Node.js                                                                                          | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/d68352fd28a60d0709ebd5b9f444d0370a01ed0b064a36e29ae2e148a41c9f5d)                |
+|                         | End-to-End JavaScript Testing with Cypress.io                                                             | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/de18a17307ff4e22a0609ad4c3ab83db14c256409a527f59a6e270422b272d6d)                |
+|                         | Explore App Development with the MERN Stack                                                               | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/dc9d760b7187138c94428dacaedc5b6201f95eb928c7ef24e30f4e1d04902e39)                     |
+|                         | Learn FullStack JavaScript Development MongoDB Node and React                                             | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/b0696743a4bda56e0315c578c9b907fd314a97f05167d87ff86672c2683101ed)                     |
+
+---          
 
 
 ## Project based Learning Roadmap to practice concepts
