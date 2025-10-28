@@ -291,6 +291,15 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 |[6. Quick MCQs](https://github.com/mskDev0092/Quick-MCQS)|[Live Site](https://mskdev0092.github.io/Quick-MCQS/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | HTML CSS Javascript | Practice Project - Design - Kimi |
 |[7. Max Health](https://github.com/mskDev0092/Max-Health---Maximize-Your-Health-Journey)|[Live Site](https://mskdev0092.github.io/Max-Health---Maximize-Your-Health-Journey/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | HTML CSS Javascript | Practice Project - Design - Grok |
 |[8. Meal Planner Calendar](https://github.com/mskDev0092/Meal-Planner-Calendar)|[Live Site](https://mskdev0092.github.io/Meal-Planner-Calendar/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | HTML CSS Javascript | Practice Project - Design - Grok |
+
+
+|     LLM Instructions, LLM AGENTS, MCP & Prompt Tuning    |
+|-----------------------------|
+
+|Project Title | URLs / Offline | Stack| Topics | From |
+|---|-|--|--------|---|
+|[1. LLM Instructions ](https://github.com/mskDev0092/LLM_INSTRUCTIONS)||
+
     
 |     Next JS    |
 |-----------------------------|
