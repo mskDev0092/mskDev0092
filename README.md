@@ -332,7 +332,7 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 |[2. Linux Commands 2](https://github.com/mskDev0092/Linux-Terminal-Commands)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> | System Utilities for Text Manipulation, Networking, and Process Management | Github |
 |[3. Arch Distro Specific](https://github.com/mskDev0092/Basic-Linux-Admin-Commands)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg"/> | System Commands, Update & Upgrade, Kernel | Github |
 |[4. Web Security Essentials](https://github.com/mskDev0092/Web-Security-Essentials)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /> | Https, Tls, Bcrypt, Server Security, Owasp | Github |
-|[5. Guardian AI](https://github.com/mskDev0092/Guardian-AI)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> | GuardianAI - Intelligent Linux System & Security Assistant | Tauri App on Github |
+|[5. Guardian AI](https://github.com/mskDev0092/Linux-GuardianAI)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> | GuardianAI - Intelligent Linux System & Security Assistant | Tauri App on Github |
 </td></tr> 
 </table>
 
