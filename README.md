@@ -334,7 +334,7 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 |[3. Arch Distro Specific](https://github.com/mskDev0092/Basic-Linux-Admin-Commands)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg"/> | System Commands, Update & Upgrade, Kernel | Github |
 |[4. Web Security Essentials](https://github.com/mskDev0092/Web-Security-Essentials)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /> | Https, Tls, Bcrypt, Server Security, Owasp | Github |
 |[5. Guardian AI](https://github.com/mskDev0092/Linux-GuardianAI)|[Page Link](https://mskdev0092.github.io/Linux-GuardianAI/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> | GuardianAI - Intelligent Linux System & Security Assistant | Tauri App on Github |
-|[6. ZiggyClaw](https://github.com/mskDev0092/ZiggyClaw)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> | Assistant tool | Zig |
+|[6. ZiggyClaw](https://github.com/mskDev0092/ZiggyClaw)|[Page Link](https://mskdev0092.github.io/ZiggyClaw/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> | Assistant tool | Zig |
 </td></tr> 
 </table>
 
