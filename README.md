@@ -307,7 +307,7 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 
 |Project Title | URLs / Offline | Stack| Topics | From |
 |---|-|--|--------|---|
-|[1. Ecommerce (Basic boilerplate only for practice)](https://github.com/mskDev0092)|[Github Repo](https://github.com/mskDev0092/ecommerce-boilerplate)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />| Next TS - SSG - Apollo GraphQL - Typescript | Practice Project |
+|[1. Ecommerce (Basic boilerplate only for practice)](https://github.com/mskDev0092)|[Github Repo](https://github.com/mskDev0092/ecommerce-boilerplate)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img  width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />| Next TS - Apollo GraphQL - Typescript | Practice Project |
 
 
 |     Microservices & APIs    |
