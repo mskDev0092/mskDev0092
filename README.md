@@ -293,6 +293,7 @@ Thanks for joining me on this digital adventure. Ready to explore the world of F
 |[7. Max Health](https://github.com/mskDev0092/Max-Health---Maximize-Your-Health-Journey)|[Live Site](https://mskdev0092.github.io/Max-Health---Maximize-Your-Health-Journey/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | HTML CSS Javascript | Practice Project - Design - Grok |
 |[8. Meal Planner Calendar](https://github.com/mskDev0092/Meal-Planner-Calendar)|[Live Site](https://mskdev0092.github.io/Meal-Planner-Calendar/)|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | HTML CSS Javascript | Practice Project - Design - Grok |
 |[9. Local AI Office](https://github.com/mskDev0092/Local-Ai-Office)|[]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | NEXT TS Tailwind | Practice Project - Design - KIMI | 
+|[10. Apna AI](https://github.com/mskDev0092/ApnaAI-Chat)|[SSR]()|<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> | NEXT TS Tailwind | Practice Project - Design - Z.ai 5 + Gemini 3.1 | 
 
 |     LLM Instructions, LLM AGENTS, MCP & Prompt Tuning    |
 |-----------------------------|
